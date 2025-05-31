@@ -1,6 +1,10 @@
 # fastcampus_flutter_firebase
 
-A new Flutter project.
+# 변경내용 
+## 2025-05-31
+1. Flutter 3.32.1 (2025-05-31 기준) 빌드 확인 
+2. 2025-05-31 기준 dependencies 업데이트
+3. android 폴더 최신화 kts
 
 ## Getting Started
 
